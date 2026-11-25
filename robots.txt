@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ikesons54.github.io/fwxplus-shortcuts/sitemap.xml
