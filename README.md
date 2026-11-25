@@ -4,7 +4,7 @@
 
 FWXplus Shortcuts is a growing collection of simple, useful automations for Apple's Shortcuts app. Each one does a single job well, runs in a few taps, and needs no extra app and no account. Everything runs on your own device.
 
-**Landing page:** https://YOUR-ikesons54.github.io/fwxplus-shortcuts/
+**Landing page:** https://ikesons54.github.io/fwxplus-shortcuts/
 
 ---
 
